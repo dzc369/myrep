@@ -1,1 +1,1 @@
-git is disteibuted version control system.
+git is freely distributed version control system.
