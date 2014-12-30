@@ -1,2 +1,2 @@
 git is freely distributed version control system.
-new test 
+my new test for fixing.
