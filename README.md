@@ -1,0 +1,4 @@
+myrep
+=====
+
+my new  repository
